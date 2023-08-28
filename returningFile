@@ -1,0 +1,6 @@
+<?php 
+            return [ 
+ dep1::class => new dep1,
+dep2::class => new dep2
+ ]
+        
